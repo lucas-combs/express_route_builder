@@ -1,0 +1,22 @@
+{
+  "name": "express_route_builder",
+  "version": "1.0.0",
+  "description": "This is a template route builder I am making for express.",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lucas-combs/express_route_builder.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lucas-combs/express_route_builder/issues"
+  },
+  "homepage": "https://github.com/lucas-combs/express_route_builder#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
